@@ -1,5 +1,7 @@
 package com.dzzxjl.test;
 
+import java.util.HashMap;
+
 /**
  * Created by dzzxjl on 2017/4/4.
  */
@@ -17,12 +19,14 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        Test test = new Test();
-        InnerClass a = test. new InnerClass();
-        InnerClass b = test. new InnerClass();
-
-        String str = "hello";
+//        Test test = new Test();
+//        InnerClass a = test. new InnerClass();
+//        InnerClass b = test. new InnerClass();
+//
+//        String str = "hello";
 //        str.length()
 
-    }
+
+
+        }
 }
