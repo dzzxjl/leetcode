@@ -11,5 +11,7 @@ public class Single {
     }
 
     private Single() {
+
     }
+
 }
